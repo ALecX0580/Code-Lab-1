@@ -1,4 +1,4 @@
-# Practice Exercises for Print Statment (Alen Efraim Alinas Cyber Security Group 1 - Year 1)
+# Practice Exercises for Print Statment (Alen Efraim Alinas Cyber Security Level 4 | Yr1)
 
 print("\033[1m1. Basic String Output: \033[0m")
 # Prints a Basic string to Terminal
