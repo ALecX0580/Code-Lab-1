@@ -1,4 +1,4 @@
-# Python List Exercises
+# Python List Homework (Alen Efraim Alinas Cyber Security Level 4 | Yr1) 
 print("\033[1m1. Creating a List\033[0m")
 fruits = ["appple", "pineapple", "mango", "banana", "orange"]
 print(fruits)
