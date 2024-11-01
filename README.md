@@ -1,2 +1,3 @@
 # Code-Lab-1
-This repository is for Exercises provided by BathSpa University
+This repository is for submission of homework and class activities
+
