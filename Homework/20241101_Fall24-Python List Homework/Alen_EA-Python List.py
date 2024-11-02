@@ -11,7 +11,7 @@ colors = ['red', 'blue', 'green', 'yellow', 'purple']
 print(colors[0], colors[2], colors[-1])
 
 print("\n\033[1m3. Modifying a List\033[0m")
-# Changing an element with another at a specific index and appending a new element at end of list 
+# Changing an element with xanother at a specific index and appending a new element at end of list 
 numbers = [10, 20, 30, 40, 50]
 numbers[1] = 25
 numbers.append(60)
