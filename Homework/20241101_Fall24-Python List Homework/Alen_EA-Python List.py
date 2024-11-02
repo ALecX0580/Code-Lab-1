@@ -28,7 +28,7 @@ print("\n\033[1m5. Looping through a List\033[0m")
 num = (range(1, 11))
 squared_nums = []
 for number in num:
-    squared_nums.append(number ** 2)
+    squared_nums.append(number**2)
 print(squared_nums)
 
 print("\n\033[1m6. List Methods: Append and Extend\033[0m")
